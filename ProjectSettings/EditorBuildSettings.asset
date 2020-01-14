@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen/TitleScene.unity
+    guid: 9b599411a6b3d47ecbc73e3b5c849c4a
+  - enabled: 1
+    path: Assets/Scenes/HealthScience/Scenes/MainLobby.unity
+    guid: 69b485bfc184c448682d982d014500f2
+  - enabled: 1
+    path: Assets/Scenes/HealthScience/Scenes/ChemExit.unity
+    guid: 987176af496744ae5b4177a01a2d9760
+  - enabled: 1
+    path: Assets/Scenes/HealthScience/Scenes/ChemLobby.unity
+    guid: f7d69ef70b9da4beab6e6ad8c21e290e
+  - enabled: 1
+    path: Assets/Scenes/HealthScience/Scenes/FrontExit.unity
+    guid: d9547d2164d114615a53d1a4818fa655
+  - enabled: 1
+    path: Assets/Scenes/HealthScience/Scenes/HospitalExit.unity
+    guid: 13089d53cb5b149849b3e2345b8e7082
+  - enabled: 1
+    path: Assets/Scenes/HealthScience/Scenes/Microscope.unity
+    guid: 1b10dd8f8a97749bf870dd22d45dd0f8
+  - enabled: 1
+    path: Assets/Scenes/HealthScience/Scenes/Morgue.unity
+    guid: 7fe4b84b775574782838d92903a93e90
+  - enabled: 1
+    path: Assets/Scenes/HealthScience/Scenes/OfficeImpar.unity
+    guid: 9fb4bf3132a7d4dc5bd6665e5dede879
+  - enabled: 1
+    path: Assets/Scenes/HealthScience/Scenes/SampleRoom.unity
+    guid: 88032bac534c84226b577497eea2d131
+  - enabled: 1
+    path: Assets/Scenes/HealthScience/Scenes/SampleRoom2.unity
+    guid: 2bbd0c6ebd4a446b9a2ad960da4804cc
+  - enabled: 1
+    path: Assets/Scenes/MapScene.unity
+    guid: 71b4e18e059885c4692f23f4ed2595cd
+  - enabled: 1
+    path: Assets/Scenes/SkeletonPuzzle/Scenes/Skeleton.unity
+    guid: 0865bf609ff6847829e72a49b9ef9ec9
+  - enabled: 1
+    path: Assets/Scenes/SafePuzzle/Scenes/KeyPad.unity
+    guid: b22e3d54b9d644efa9ba4bf9bf651a44
+  - enabled: 1
+    path: Assets/Scenes/Chemistry/Scene/ChemFinal.unity
+    guid: 8d8ae62d5b26a8e469cc46f0b9e2a3fd
+  - enabled: 1
+    path: Assets/Scenes/Chemistry/Scene/ChemistryLobby.unity
+    guid: 4837902c9ba61d041ae6c3a315b6f484
+  - enabled: 1
+    path: Assets/Scenes/Chemistry/Scene/ChemLabBack.unity
+    guid: d9e879db22d323e478e1743bcbf3023e
+  - enabled: 1
+    path: Assets/Scenes/Chemistry/Scene/ChemLabLeft.unity
+    guid: 24c9b0cccf702954aa134a6640fcdda6
+  - enabled: 1
+    path: Assets/Scenes/Chemistry/Scene/ChemLabRight.unity
+    guid: dc9579c7f2a90ef49981a39e4e12273d
+  - enabled: 1
+    path: Assets/Scenes/RhythmPuzzle/Scenes/RhythmTapper.unity
+    guid: 49b79229055b84b3c97d199df41c1a16
+  - enabled: 1
+    path: Assets/Scenes/BeakerPuzzle/Scenes/Beaker.unity
+    guid: db9a36f16fd754f359f0d80baca55e1b
+  - enabled: 1
+    path: Assets/Scenes/BeakerPuzzle/Scenes/Fingerprint.unity
+    guid: d56f784a8671c4e2984a55043934f998
+  - enabled: 1
+    path: Assets/Scenes/MixingPuzzle/Scenes/ChemicalMixing.unity
+    guid: e50f73c7f5cf6024bbfb6aafd88ee251
+  - enabled: 1
+    path: Assets/Scenes/Biology/Scene/ArriveFirstTime.unity
+    guid: 5d67672bd9f42b8429f06c2cc0508bf1
+  - enabled: 1
+    path: Assets/Scenes/Biology/Scene/BioFinal.unity
+    guid: d11dea11430b3204b92110352aea5c56
+  - enabled: 1
+    path: Assets/Scenes/Biology/Scene/BioFinishDoor.unity
+    guid: 622e017145ac84148aae0d6146040f27
+  - enabled: 1
+    path: Assets/Scenes/Biology/Scene/BioFinishLobby2.unity
+    guid: 028e46a634a986f4f8bb8afe3a5c3169
+  - enabled: 1
+    path: Assets/Scenes/Biology/Scene/BioFinishLobby3.unity
+    guid: 82c4c3ac0f841c145b002768db4a52db
+  - enabled: 1
+    path: Assets/Scenes/Biology/Scene/BioNoLobby.unity
+    guid: 1f2ade53524099c4ca378e9c7e18e6e4
+  - enabled: 1
+    path: Assets/Scenes/Biology/Scene/BioThirdTime.unity
+    guid: b97d93d3b90e8b84a9ea0db243d83e3f
+  - enabled: 1
+    path: Assets/Scenes/Biology/Scene/DebraOffice.unity
+    guid: e5a90b534cc8de4498c2c39c2f537a94
+  - enabled: 1
+    path: Assets/Scenes/Biology/Scene/FinishDino.unity
+    guid: f72046ea1d8a0aa49837503636575e64
+  - enabled: 1
+    path: Assets/Scenes/Biology/Scene/NoBioLobby2.unity
+    guid: 5ab6bb877c90ed34b81ab7e465571a98
+  - enabled: 1
+    path: Assets/Scenes/Biology/Scene/NoBioLobby3.unity
+    guid: 05277f1b3e2f97148a1526218dfad570
+  - enabled: 1
+    path: Assets/Scenes/Biology/Scene/NoFinishDoor.unity
+    guid: 3e2c51592824bd64694f674643f5e4b9
+  - enabled: 1
+    path: Assets/Scenes/DinoPuzzle/DinoPuzzleA.unity
+    guid: c91486783e3249e4fb95c23838ba98c1
+  - enabled: 1
+    path: Assets/Scenes/DinoPuzzle/DinoPuzzleB.unity
+    guid: 6308b66889495d0408cb7e0caadde4dc
+  - enabled: 1
+    path: Assets/Scenes/DinoPuzzle/DinoPuzzleC.unity
+    guid: 5f74982f7caba0f47a676c4461336826
+  - enabled: 1
+    path: Assets/Scenes/ComplexRhythmPuzzle/ComplexRhythmPuzzle.unity
+    guid: cea8c37879b1a4ead84b45c1fe8e651d
+  - enabled: 1
+    path: Assets/Scenes/Arts/Arts.unity
+    guid: f0301755be4878f40ae53462770388b5
+  - enabled: 1
+    path: Assets/Scenes/Arts/Arts_PuzzleFinished.unity
+    guid: 63e0ac377a5a02444843410183a9a490
+  - enabled: 1
+    path: Assets/Scenes/Arts/PhotosRevealed.unity
+    guid: d537f33fc952490438d0c1ebb899ee6f
+  - enabled: 1
+    path: Assets/Scenes/PhotoPuzzle/Scenes/PhotoPuzzle.unity
+    guid: e915214b372989441b0c7bca6a3e8c06
+  - enabled: 1
+    path: Assets/Scenes/Admin/Scenes/Admin.unity
+    guid: bf8baa601b267454285b8b0f115c71aa
+  - enabled: 1
+    path: Assets/Scenes/Admin/Scenes/AdminFinal.unity
+    guid: ec8065343626b6a47af3656ba325703c
+  - enabled: 1
+    path: Assets/Scenes/Admin/Scenes/Adminkeypad.unity
+    guid: f4ee2f63180f84fe2a083c85fe308aad
+  - enabled: 1
+    path: Assets/Scenes/Admin/Scenes/Secret Lab.unity
+    guid: e436f37e24c0340b2bf04e733cbbd3d1
+  - enabled: 1
+    path: Assets/Scenes/Admin/Scenes/Secret Lab Boxes.unity
+    guid: 8a0eb7d747a2c47068353d52ba134027
+  - enabled: 1
+    path: Assets/Scenes/Admin/Scenes/Staircase.unity
+    guid: 7270074224d874581a673eb0aa46b5c9
+  - enabled: 1
+    path: Assets/Scenes/FakePhoneScene.unity
+    guid: 780e239bda65848c59cc483ca3b36f8d
+  - enabled: 0
+    path: Assets/Scenes/LevelSelector/Scene/MapScene.unity
+    guid: 1a07d150cf63d445f9782d5694bc1e9c
+  m_configObjects: {}

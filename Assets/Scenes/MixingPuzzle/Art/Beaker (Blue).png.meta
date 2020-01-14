@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 78d4ea44b55fa7d4985d193b9f039c0c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Beaker (Blue)_0
+    21300002: Beaker (Blue)_1
+    21300004: Beaker (Blue)_2
+    21300006: Beaker (Blue)_3
+    21300008: Beaker (Blue)_4
+    21300010: Beaker (Blue)_5
+    21300012: Beaker (Blue)_6
+    21300014: Beaker (Blue)_7
+    21300016: Beaker (Blue)_8
+    21300018: Beaker (Blue)_9
+    21300020: Beaker (Blue)_10
+    21300022: Beaker (Blue)_11
+    21300024: Beaker (Blue)_12
+    21300026: Beaker (Blue)_13
+    21300028: Beaker (Blue)_14
+    21300030: Beaker (Blue)_15
+    21300032: Beaker (Blue)_16
+    21300034: Beaker (Blue)_17
+    21300036: Beaker (Blue)_18
+    21300038: Beaker (Blue)_19
+    21300040: Beaker (Blue)_20
+    21300042: Beaker (Blue)_21
+    21300044: Beaker (Blue)_22
+    21300046: Beaker (Blue)_23
+    21300048: Beaker (Blue)_24
+    21300050: Beaker (Blue)_25
+    21300052: Beaker (Blue)_26
+    21300054: Beaker (Blue)_27
+    21300056: Beaker (Blue)_28
+    21300058: Beaker (Blue)_29
+    21300060: Beaker (Blue)_30
+    21300062: Beaker (Blue)_31
+    21300064: Beaker (Blue)_32
+    21300066: Beaker (Blue)_33
+    21300068: Beaker (Blue)_34
+    21300070: Beaker (Blue)_35
+    21300072: Beaker (Blue)_36
+    21300074: Beaker (Blue)_37
+    21300076: Beaker (Blue)_38
+    21300078: Beaker (Blue)_39
+    21300080: Beaker (Blue)_40
+    21300082: Beaker (Blue)_41
+    21300084: Beaker (Blue)_42
+    21300086: Beaker (Blue)_43
+    21300088: Beaker (Blue)_44
+    21300090: Beaker (Blue)_45
+    21300092: Beaker (Blue)_46
+    21300094: Beaker (Blue)_47
+    21300096: Beaker (Blue)_48
+    21300098: Beaker (Blue)_49
+    21300100: Beaker (Blue)_50
+    21300102: Beaker (Blue)_51
+    21300104: Beaker (Blue)_52
+    21300106: Beaker (Blue)_53
+    21300108: Beaker (Blue)_54
+    21300110: Beaker (Blue)_55
+    21300112: Beaker (Blue)_56
+    21300114: Beaker (Blue)_57
+    21300116: Beaker (Blue)_58
+    21300118: Beaker (Blue)_59
+    21300120: Beaker (Blue)_60
+    21300122: Beaker (Blue)_61
+    21300124: Beaker (Blue)_62
+    21300126: Beaker (Blue)_63
+    21300128: Beaker (Blue)_64
+    21300130: Beaker (Blue)_65
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Beaker (Blue)_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 161
+        width: 236
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db9c76cc6a8551438b19e883ab98e82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beaker (Blue)_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 114
+        width: 281
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e4edec31b2e1c4d8337ed865c85a45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beaker (Blue)_2
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 100
+        width: 308
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9dc168ea7dcfe41aab66da851888dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beaker (Blue)_3
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 125
+        width: 329
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130d508084c48ab4d86c7a715aeea66b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beaker (Blue)_4
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 112
+        width: 348
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354dabe3cf734fc47b108e0622da6dc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beaker (Blue)_5
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 21
+        width: 353
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d3c78eba19a7943a0212e8984bc918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 02e6bb04bb198d84c8d0eabb986c9185
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
